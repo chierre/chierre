@@ -1,11 +1,7 @@
 ## Hi there! 🙋🏻‍♀️
 I'm César, a self-taught data analyst from Argentina, who also has Italian citizenship but lives in Spain!</br>
 
-✨ About Me in 30 Secs ✨</br>
-👩🏻‍💻 Accountant turned data analyst</br>
-📊 Transition to data since June 2022</br>
-📝 Taught myself SQL, Python and Power BI</br>
-👨🏻‍💻 Working at data related jobs for 15 years</br>
+Since my first job 15 years ago, I have always been related to data and discovered that it is my passion. Throughout this time, I have developed some interesting skills, especially using Microsoft Excel, even before it was called data analysis. I am determined to keep learning about new tools and cultivating the abilities that help me become a successful Data Analyst.</br>
 
 📚 Projects & Guides 📚</br>
 Developing...</br>
@@ -16,6 +12,7 @@ Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relation
 
 ⚡️ Currently ⚡️</br>
 Developing my very first project!</br>
+Looking for a job in the data field!</br>
 Course: The Data Science Course 2023: Complete Data Science Bootcamp</br>
 
 🙌🏻 Connect with Me</br>
