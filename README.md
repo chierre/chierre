@@ -9,7 +9,7 @@ Soon! Stay tuned!</br>
 
 💡 Core Competencies 💡</br>
 Tools: MS Excel, SQL, Python, Power BI</br>
-Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development</br>
+Skills: Data Cleaning and Wrangling, Data Visualization, Data Analysis, Relational Databases, Dashboard Design and Development</br>
 
 ⚡️ Currently ⚡️</br>
 Developing my very first project!</br>
