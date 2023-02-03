@@ -14,7 +14,7 @@ Skills: Data Cleaning and Wrangling, Data Visualization, Data Analysis, Relation
 ⚡️ Currently ⚡️</br>
 Developing my very first project!</br>
 Looking for a job in the data field!</br>
-Course: The Data Science Course 2023: Complete Data Science Bootcamp</br>
+Enrolled: Data Scientist with Python (DataCamp Career Track)</br>
 
 🙌🏻 Connect with Me</br>
 [LinkedIn](https://www.linkedin.com/in/cesar-hierrezuelo/)</br>
